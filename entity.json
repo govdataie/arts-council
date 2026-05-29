@@ -1,0 +1,13 @@
+{
+  "id": "arts_council",
+  "display": "Arts Council",
+  "ticker": "AC",
+  "kind": "quango",
+  "sector": "culture",
+  "type": "public",
+  "url": "https://www.artscouncil.ie",
+  "companyNumber": null,
+  "charityNumber": null,
+  "country": "IE",
+  "isPublic": true
+}

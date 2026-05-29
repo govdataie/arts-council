@@ -1,0 +1,102 @@
+source,metric,sub_metric,amount,currency,pages,notes
+ar2015,expenditure,expenditure_on_the_arts,1884,EUR_000,,Extracted from annual report statement/note
+ar2015,expenditure,grants,49924,EUR_000,,Extracted from annual report statement/note
+ar2015,expenditure,other_admin_costs,2231,EUR_000,,Extracted from annual report statement/note
+ar2015,expenditure,total,54039.0,EUR_000,,Derived as sum of expenditure components
+ar2015,income,net_deferred_funding_for_retirement_benefits,858,EUR_000,,Extracted from annual report statement/note
+ar2015,income,oireachtas_grant,56724,EUR_000,,Extracted from annual report statement/note
+ar2015,income,other_grants,276,EUR_000,,Extracted from annual report statement/note
+ar2015,income,other_income,1,EUR_000,,Extracted from annual report statement/note
+ar2015,income,total,57859.0,EUR_000,,Derived as sum of income components
+ar2015,staff,total_headcount,60,count,,Employee disclosure in annual report
+ar2016,expenditure,expenditure_on_the_arts,2668,EUR_000,,Extracted from annual report statement/note
+ar2016,expenditure,grants,53709,EUR_000,,Extracted from annual report statement/note
+ar2016,expenditure,other_admin_costs,2035,EUR_000,,Extracted from annual report statement/note
+ar2016,expenditure,total,58412.0,EUR_000,,Derived as sum of expenditure components
+ar2016,income,net_deferred_funding_for_retirement_benefits,809,EUR_000,,Extracted from annual report statement/note
+ar2016,income,oireachtas_grant,61189,EUR_000,,Extracted from annual report statement/note
+ar2016,income,other_grants,346,EUR_000,,Extracted from annual report statement/note
+ar2016,income,other_income,1,EUR_000,,Extracted from annual report statement/note
+ar2016,income,total,62345.0,EUR_000,,Derived as sum of income components
+ar2016,staff,total_headcount,60,count,,Employee disclosure in annual report
+ar2016,surplus,before_appropriations,147,EUR_000,,Extracted from annual report statement/note
+ar2016,surplus,for_year,274,EUR_000,,Extracted from annual report statement/note
+ar2017,expenditure,expenditure_on_the_arts,2522,EUR_000,,Extracted from annual report statement/note
+ar2017,expenditure,grants,58043,EUR_000,,Extracted from annual report statement/note
+ar2017,expenditure,other_admin_costs,1855,EUR_000,,Extracted from annual report statement/note
+ar2017,expenditure,staff_remuneration,4588,EUR_000,,Extracted from annual report statement/note
+ar2017,expenditure,total,67008.0,EUR_000,,Derived as sum of expenditure components
+ar2017,income,oireachtas_grant,65941,EUR_000,,Extracted from annual report statement/note
+ar2017,income,other_grants,374,EUR_000,,Extracted from annual report statement/note
+ar2017,income,other_income,3,EUR_000,,Extracted from annual report statement/note
+ar2017,income,total,66318.0,EUR_000,,Derived as sum of income components
+ar2017,staff,total_headcount,60,count,,Employee disclosure in annual report
+ar2018,expenditure,expenditure_on_the_arts,2350,EUR_000,,Extracted from annual report statement/note
+ar2018,expenditure,grants,62110,EUR_000,,Extracted from annual report statement/note
+ar2018,expenditure,other_admin_costs,1911,EUR_000,,Extracted from annual report statement/note
+ar2018,expenditure,staff_remuneration,4550,EUR_000,,Extracted from annual report statement/note
+ar2018,expenditure,total,70921.0,EUR_000,,Derived as sum of expenditure components
+ar2018,income,oireachtas_grant,68199,EUR_000,,Extracted from annual report statement/note
+ar2018,income,other_grants,630,EUR_000,,Extracted from annual report statement/note
+ar2018,income,total,68829.0,EUR_000,,Derived as sum of income components
+ar2018,staff,total_headcount,60,count,,Employee disclosure in annual report
+ar2019,expenditure,expenditure_on_the_arts,3372,EUR_000,,Extracted from annual report statement/note
+ar2019,expenditure,grants,66053,EUR_000,,Corrected from statement line extraction
+ar2019,expenditure,other_admin_costs,2065,EUR_000,,Extracted from annual report statement/note
+ar2019,expenditure,staff_remuneration,4445,EUR_000,,Extracted from annual report statement/note
+ar2019,expenditure,total,75935.0,EUR_000,,Derived as sum of expenditure components
+ar2019,income,net_deferred_funding_for_retirement_benefits,253,EUR_000,,Extracted from annual report statement/note
+ar2019,income,oireachtas_grant,74985,EUR_000,,Corrected from statement line extraction
+ar2019,income,other_grants,1504,EUR_000,,Extracted from annual report statement/note
+ar2019,income,total,76742.0,EUR_000,,Derived as sum of income components
+ar2020,expenditure,expenditure_on_the_arts,4361,EUR_000,,Extracted from annual report statement/note
+ar2020,expenditure,grants,87406,EUR_000,,Corrected from statement line extraction
+ar2020,expenditure,other_admin_costs,2109,EUR_000,,Extracted from annual report statement/note
+ar2020,expenditure,staff_remuneration,5215,EUR_000,,Extracted from annual report statement/note
+ar2020,expenditure,total,99091.0,EUR_000,,Derived as sum of expenditure components
+ar2020,income,net_deferred_funding_for_retirement_benefits,78,EUR_000,,Extracted from annual report statement/note
+ar2020,income,oireachtas_grant,106868,EUR_000,,Corrected from statement line extraction
+ar2020,income,other_grants,1459,EUR_000,,Extracted from annual report statement/note
+ar2020,income,total,108405.0,EUR_000,,Derived as sum of income components
+ar2020,surplus,for_year,8759,EUR_000,,Corrected from statement line extraction
+ar2021,expenditure,expenditure_on_the_arts,6171,EUR_000,,Extracted from annual report statement/note
+ar2021,expenditure,grants,114244,EUR_000,,Corrected from statement line extraction
+ar2021,expenditure,other_admin_costs,2300,EUR_000,,Extracted from annual report statement/note
+ar2021,expenditure,staff_remuneration,5937,EUR_000,,Extracted from annual report statement/note
+ar2021,expenditure,total,128652.0,EUR_000,,Derived as sum of expenditure components
+ar2021,income,net_deferred_funding_for_retirement_benefits,-343,EUR_000,,Extracted from annual report statement/note
+ar2021,income,oireachtas_grant,129991,EUR_000,,Corrected from statement line extraction
+ar2021,income,other_grants,1037,EUR_000,,Extracted from annual report statement/note
+ar2021,income,total,130685.0,EUR_000,,Derived as sum of income components
+ar2021,surplus,for_year,1382,EUR_000,,Corrected from statement line extraction
+ar2022,expenditure,expenditure_on_the_arts,7671,EUR_000,,Extracted from annual report statement/note
+ar2022,expenditure,grants,112951,EUR_000,,Corrected from statement line extraction
+ar2022,expenditure,other_admin_costs,3708,EUR_000,,Extracted from annual report statement/note
+ar2022,expenditure,staff_remuneration,6889,EUR_000,,Extracted from annual report statement/note
+ar2022,expenditure,total,131219.0,EUR_000,,Derived as sum of expenditure components
+ar2022,income,net_deferred_funding_for_retirement_benefits,-624,EUR_000,,Extracted from annual report statement/note
+ar2022,income,oireachtas_grant,130718,EUR_000,,Corrected from statement line extraction
+ar2022,income,other_grants,1060,EUR_000,,Extracted from annual report statement/note
+ar2022,income,total,131154.0,EUR_000,,Derived as sum of income components
+ar2023,expenditure,expenditure_on_the_arts,7687,EUR_000,,Extracted from annual report statement/note
+ar2023,expenditure,grants,121402,EUR_000,,Extracted from annual report statement/note
+ar2023,expenditure,other_admin_costs,6931,EUR_000,,Extracted from annual report statement/note
+ar2023,expenditure,staff_remuneration,7411,EUR_000,,Extracted from annual report statement/note
+ar2023,expenditure,total,143431.0,EUR_000,,Derived as sum of expenditure components
+ar2023,income,oireachtas_grant,131903,EUR_000,,Extracted from annual report statement/note
+ar2023,income,other_grants,2788,EUR_000,,Extracted from annual report statement/note
+ar2023,income,total,134691.0,EUR_000,,Derived as sum of income components
+ar2024,capital,transfer_to_from_capital_reserve,-225,EUR_000,,Extracted from annual report statement/note
+ar2024,expenditure,expenditure_on_the_arts,7298,EUR_000,,Extracted from annual report statement/note
+ar2024,expenditure,grants,115946,EUR_000,,Extracted from annual report statement/note
+ar2024,expenditure,other_admin_costs,3601,EUR_000,,Extracted from annual report statement/note
+ar2024,expenditure,staff_remuneration,8786,EUR_000,,Extracted from annual report statement/note
+ar2024,expenditure,total,135631.0,EUR_000,,Derived as sum of expenditure components
+ar2024,income,net_deferred_funding_for_retirement_benefits,1052,EUR_000,,Extracted from annual report statement/note
+ar2024,income,oireachtas_grant,131120,EUR_000,,Extracted from annual report statement/note
+ar2024,income,other_grants,1465,EUR_000,,Extracted from annual report statement/note
+ar2024,income,other_income,5,EUR_000,,Corrected from statement line extraction
+ar2024,income,total,133642.0,EUR_000,,Derived as sum of income components
+ar2024,staff,total_headcount,60,count,,Employee disclosure in annual report
+ar2024,surplus,before_appropriations,-1989,EUR_000,,Extracted from annual report statement/note
+ar2024,surplus,for_year,-2214,EUR_000,,Extracted from annual report statement/note
