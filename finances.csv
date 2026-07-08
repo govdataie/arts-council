@@ -120,6 +120,6 @@ ar2024,income,oireachtas_grant,131120,EUR_000,,Extracted from annual report stat
 ar2024,income,other_grants,1465,EUR_000,,Extracted from annual report statement/note
 ar2024,income,other_income,5,EUR_000,,Corrected from statement line extraction
 ar2024,income,total,133642.0,EUR_000,,Derived as sum of income components
-ar2024,staff,total_headcount,,count,,Unable to verify - source figure could not be confirmed
+ar2024,staff,total_headcount,122,count,,Corrected from statement line extraction
 ar2024,surplus,before_appropriations,-1989,EUR_000,,Extracted from annual report statement/note
 ar2024,surplus,for_year,-2214,EUR_000,,Extracted from annual report statement/note
